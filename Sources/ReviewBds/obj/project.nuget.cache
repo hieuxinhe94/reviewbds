@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "34S+VkYpLGAWeXenxPhuLd/K0nxCQrQ6k3gorbz9IqoPhgh/Lv82PC7D8PxLuMk5xGIpNodzC5pV1t2Zii3Vxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hieux\\Desktop\\ReviewBds.vn\\Sources\\ReviewBds\\ReviewBds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hieux\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
